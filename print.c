@@ -7,7 +7,7 @@
  * @counter: line_number
  * Return: no return
 */
-void f_print(stack_t **head, unsigned int counter)
+void func_print(stack_t **head, unsigned int counter)
 {
 	stack_t *h;
 	(void)counter;
